@@ -1,2 +1,1 @@
-# basecamp-latam-qa
-basecamp-latam-qa
+Readme instructions file
